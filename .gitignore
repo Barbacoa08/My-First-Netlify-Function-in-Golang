@@ -23,3 +23,10 @@ go.work.sum
 
 # env file
 .env
+
+# Local Netlify folder
+.netlify
+
+functions/
+
+My-First-Netlify-Function-in-Golang
